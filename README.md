@@ -8,10 +8,10 @@ word_frequency.py counts the word frequency in the file.
 
 -----------------------------------------
 modules needed to be imported:
-json
-nltk
-re
-autocorrect
+**json
+**nltk
+**re
+**autocorrect
 
 ------------------------------------------
 
