@@ -2,7 +2,7 @@
 preprocessing text crawled from patient.info
 
 This code converts the text to lower case, removes extra parts of the website format (like report, reply and likes), removes stopwords, punctuation and emojis from text.
-The comments crawled are are in a dictionary in memory_loss.py
+The crawled comments are in a dictionary in memory_loss.py
 
 word_frequency.py counts the word frequency in the file.
 
